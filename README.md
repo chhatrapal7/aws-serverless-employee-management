@@ -1,2 +1,4 @@
-# aws-serverless-employee-management
-AWS Serverless Employee Management System using Amazon S3, CloudFront, Route 53, API Gateway, Lambda, DynamoDB and IAM.
+## Live Demo
+
+The application was successfully deployed on AWS using a custom domain and HTTPS.
+The live deployment is currently unavailable. Please refer to the architecture diagram and project screenshots included in this repository.
