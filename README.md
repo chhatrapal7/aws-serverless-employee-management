@@ -30,7 +30,7 @@ The frontend is hosted on Amazon S3 and delivered globally using Amazon CloudFro
 
 ## Home Page
 
-![ACM](screenshot/HomePage.png)
+![ACM](screenshot/Home Page.png)
 
 
 ## AWS DynamoDB
