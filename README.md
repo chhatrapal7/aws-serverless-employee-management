@@ -26,6 +26,40 @@ The frontend is hosted on Amazon S3 and delivered globally using Amazon CloudFro
 
 | ACM                | Certificate              |
 
+
+
+## Home Page
+
+![ACM](screenshot/Home Page.png)
+
+
+## AWS DynamoDB
+
+![ACM](screenshot/DynamoDB.png)
+
+
+## Amazon Certificate Manager
+
+![ACM](screenshot/ACM.png)
+
+## Cloud Frount
+
+![ACM](screenshot/CloudFrount.png)
+
+## ACM Lambda Function
+
+![ACM](screenshot/Lambda.png)
+
+## AWS Rout53
+
+![ACM](screenshot/Rout53.png)
+
+
+## AWS S3
+
+![ACM](screenshot/S3.png)
+
+
 ## Features
 - Add Employee
 - View All Employees
