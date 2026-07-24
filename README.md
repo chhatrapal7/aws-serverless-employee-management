@@ -72,8 +72,11 @@ The frontend is hosted on Amazon S3 and delivered globally using Amazon CloudFro
 - DynamoDB Storage
 
 ## Author
+
 ** Chhatrapal Janghel **
+
 AWS Cloud & DevOps Engineer
-LinkedIn:
-GitHub:
-Portfolio:
+
+LinkedIn: www.linkedin.com/in/chhatrapaljanghel7
+
+Portfolio: https://chhatrapal.in/
